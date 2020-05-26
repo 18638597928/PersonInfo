@@ -1,0 +1,6 @@
+framework module PersonInfo {
+  umbrella header "PersonInfo-umbrella.h"
+
+  export *
+  module * { export * }
+}

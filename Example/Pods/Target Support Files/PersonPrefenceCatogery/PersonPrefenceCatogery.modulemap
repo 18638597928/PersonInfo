@@ -1,0 +1,6 @@
+framework module PersonPrefenceCatogery {
+  umbrella header "PersonPrefenceCatogery-umbrella.h"
+
+  export *
+  module * { export * }
+}

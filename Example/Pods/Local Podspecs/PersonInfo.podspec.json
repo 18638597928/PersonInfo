@@ -1,0 +1,32 @@
+{
+  "name": "PersonInfo",
+  "version": "0.1",
+  "summary": "A short description of PersonInfo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/18638597928/PersonInfo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "18638597928": "lpolpolpo333@126.com"
+  },
+  "source": {
+    "git": "https://github.com/18638597928/PersonInfo.git",
+    "tag": "0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "swift_versions": [
+    "4.0",
+    "5.0"
+  ],
+  "source_files": "PersonInfo/Classes/**/*",
+  "dependencies": {
+    "PersonPrefenceCatogery": [
+
+    ]
+  },
+  "swift_version": "5.0"
+}
