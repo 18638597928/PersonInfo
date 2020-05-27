@@ -1,6 +1,6 @@
 PODS:
   - CTMediator (32)
-  - PersonInfo (0.3):
+  - PersonInfo (0.4):
     - PersonPrefenceCatogery
   - PersonPrefenceCatogery (0.1):
     - CTMediator
@@ -20,7 +20,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   CTMediator: 10f2c387be0ab2061b75b88c86f9903eedba1ce8
-  PersonInfo: 89721b04c4d05971e6148ca407cdeeefb35df818
+  PersonInfo: 82de06bad921b499d890028824fa4f46153957b6
   PersonPrefenceCatogery: 537cd198572abe83a0263e6c121b45fc4480a66d
 
 PODFILE CHECKSUM: a5b89b696533a7deaaf1e9e7b16b453c6f6a02b2

@@ -7,7 +7,7 @@
 
 import UIKit
 
-public class Target_PersonInfoViewController: NSObject {
+@objc class Target_PersonInfoViewController: NSObject {
 
 
     @objc func Action_PersonInfoViewController(param: [String: Any]) -> UIViewController{
