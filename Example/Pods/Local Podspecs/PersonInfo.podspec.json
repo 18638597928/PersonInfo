@@ -1,6 +1,6 @@
 {
   "name": "PersonInfo",
-  "version": "0.4",
+  "version": "0.5",
   "summary": "A short description of PersonInfo.",
   "description": "TODO: Add long description of the pod here.",
   "homepage": "https://github.com/18638597928/PersonInfo",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/18638597928/PersonInfo.git",
-    "tag": "0.4"
+    "tag": "0.5"
   },
   "platforms": {
     "ios": "9.0"

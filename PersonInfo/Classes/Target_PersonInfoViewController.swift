@@ -10,11 +10,15 @@ import UIKit
 @objc class Target_PersonInfoViewController: NSObject {
 
 
-    @objc func Action_PersonInfoViewController(param: [String: Any]) -> UIViewController{
+    @objc func Action_PersonInfoViewController(_ params:NSDictionary) -> UIViewController{
 
         let perInfo = PersonInfoViewController()
-        perInfo.name = param["name"] as! String
-        perInfo.age = param["age"] as! Int
+        if let name = params["name"] as? String {
+            perInfo.name = name
+        }
+        if let age = params["age"] as? Int {
+            perInfo.age = age
+        }
         return perInfo
     }
 }

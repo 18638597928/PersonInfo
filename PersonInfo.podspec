@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PersonInfo'
-  s.version          = '0.4'
+  s.version          = '0.5'
   s.summary          = 'A short description of PersonInfo.'
 
 # This description is used to generate tags and improve search results.
