@@ -10,7 +10,7 @@ import UIKit
 public class Target_PersonInfoViewController: NSObject {
 
 
-    func Action_PersonInfoViewController(param: [String: Any]) -> UIViewController{
+    public func Action_PersonInfoViewController(param: [String: Any]) -> UIViewController{
 
         let perInfo = PersonInfoViewController()
         perInfo.name = param["name"] as! String
